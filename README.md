@@ -1,6 +1,6 @@
 # Note_App
 
-A new Flutter project.
+A Flutter project to take notes with a voiceover.
 
 ## Getting Started
 
